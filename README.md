@@ -63,7 +63,7 @@ Modify the `datasets` variable in `prepare.py` to specify which datasets to be p
 
 ### Model
 
-1. We provide the pre-trained models mentioned in the paper in [the release page](). Download them and put it somewhere, e.g. the `models` folder.
+1. We provide the pre-trained models mentioned in the paper in [the release page](https://github.com/huzexi/SADenseNet/releases). Download them and put it somewhere, e.g. the `models` folder.
 2. In `config.py`, change the corresponding variables in the `Network` section for the model you choose. The default configuration is for the full SADenseNet variant `ISA_651` which provides the best performance.
 
 ## Benchmarking

@@ -34,7 +34,9 @@ To obtain the HDF5 files, two options are provided:
 1. Download the generated HDF5 files we provided in [this page](https://unisydneyedu-my.sharepoint.com/:f:/g/personal/zehu6197_uni_sydney_edu_au/Ej2faHBEGV9BtGbOpZuBZV4BKh34A2IoR9nQVbArXs4SDw?e=RsyOan) and put them under the `data` folder.
 2. Do it yourself following the instruction below.
 
-NOTICE: Beware of your disk space as the HDF5 files will be huge.
+NOTICE: 
+1. Beware of your disk space as the HDF5 files will be huge.
+2. As the cloud storage is provided the University of Sydney, it will expire after one year and needs manual renewal. Therefore, I would encourage readers to obtain HDF5 files via **Do It Yourself** presented below. In spite of that, you are welcome to use the pre-computed HDF5 files or remind me to renew it again if expiration happens again.
 
 #### Do It Yourself
 
